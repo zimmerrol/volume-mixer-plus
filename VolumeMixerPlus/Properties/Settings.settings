@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VolumeMixerPlus.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="IncreaseCurrentVolumeKeyCombinationAsString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Control+VolumeUp</Value>
+    </Setting>
+    <Setting Name="DecreaseCurrentVolumeKeyCombinationAsString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Control+VolumeDown</Value>
+    </Setting>
+    <Setting Name="MuteCurrentKeyCombinationAsString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Control+VolumeMute</Value>
+    </Setting>
+    <Setting Name="SwitchAudioDeviceKeyCombinationAsString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Control+PageUp</Value>
+    </Setting>
+    <Setting Name="IncreaseAllVolumeKeyCombinationAsString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Alt+VolumeUp</Value>
+    </Setting>
+    <Setting Name="DecreaseAllVolumeKeyCombinationAsString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Alt+VolumeDown</Value>
+    </Setting>
+    <Setting Name="MuteAllKeyCombinationAsString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Alt+VolumeMute</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
