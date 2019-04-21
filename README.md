@@ -1,4 +1,4 @@
-# VolumeMixerPlus
+# Volume Mixer Plus
 Improves the default Windows Volume Mixer by adding some new functions and keyboard shortcuts for these:
 
 - Changing the default playback device
